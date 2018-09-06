@@ -1,6 +1,6 @@
 # 先進ゲノム支援中級者向け講習会
 
-Saccharomyces cerevisiae
+<i>Saccharomyces cerevisiae</i>
 
 A comprehensive comparison of RNA-Seq-based transcriptome analysis from reads to differential gene expression and cross-comparison with microarrays: a case study in Saccharomyces cerevisiae.
 Nookaew I, Papini M, Pornputtapong N, Scalcinati G, Fagerberg L, Uhlén M, Nielsen J.
